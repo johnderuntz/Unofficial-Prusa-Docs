@@ -1,1 +1,13 @@
+Name: Unofficial Prusa Discord Documentation
+description: A place where the community can gather resources to help others.
+
+search_enabled: true
 remote_theme: pmarsceill/just-the-docs
+color_scheme: dark
+
+aux_links:
+  "Come Hang out on Discord!":
+    -"https://discord.gg/TZargQ5"
+aux_links_new_tab: true
+
+
